@@ -47,9 +47,8 @@ p{
     background:#f1f1f1;
     transform:scale(1.05);
 }
-
 .message{
-    margin-top:20px;
-    font-size:1.1rem;
-    color:#ffe082;
+    font-size: 1.1rem;
+    margin-top: 20px;
+    color: #ffe082;
 }
